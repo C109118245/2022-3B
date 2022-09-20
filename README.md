@@ -33,7 +33,7 @@ Google Meet Link: http://meet.google.com/xsb-owps-pwp
 
 [NKUST](nkust.edu.tw)
 
-![NKUST](pic.png "pic")
+![catless](catless.git "catless")
 - [ ] todo list
 - [ ] 2nd
 - [X] done
