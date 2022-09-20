@@ -23,11 +23,19 @@ Google Meet Link: http://meet.google.com/xsb-owps-pwp
 
 >>3.2
 
-
 *Red
+
 +Green
+
 -Blue
 
 ---
 
 [NKUST](nkust.edu.tw)
+
+![NKUST](pic.png "pic")
+- [ ] todo list
+- [ ] 2nd
+- [X] done
+
+
