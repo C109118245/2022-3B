@@ -23,19 +23,19 @@ Google Meet Link: http://meet.google.com/xsb-owps-pwp
 
 >>3.2
 
-*Red
+* Red
 
-+Green
++ Green
 
--Blue
+- Blue
 
 ---
 
 [NKUST](nkust.edu.tw)
 
-![catless](catless.gif "catless")
 - [ ] todo list
 - [ ] 2nd
 - [X] done
 
+![catless](catless.gif "catless")
 
