@@ -1,4 +1,4 @@
 
-![PERT](PERT.jpg "PERT")
+![PERT](PERT.png "PERT")
 
-![Gantt](Gantt.jpg "Gantt")
+![Gantt](Gantt.png "Gantt")
